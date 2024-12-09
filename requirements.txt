@@ -112,7 +112,7 @@ numpy-base==1.23.5
 oauthlib==3.2.2
 opencv-python==4.10.0.84
 openjpeg==2.5.2
-openssl==1.1.1w
+openssl==1.1.1
 opt_einsum==3.3.0
 packaging==24.2
 pandas==1.5.3
