@@ -21,7 +21,7 @@ jinja2==3.1.4
 joblib==1.4.2
 jsonschema==4.23.0
 matplotlib==3.7.1
-numpy==1.23.5
+numpy
 opt_einsum==3.3.0
 packaging==24.2
 pandas==1.5.3
