@@ -60,7 +60,7 @@ def predict(model_path, image_bytes):
     
     # Predict
     prediction = model.predict(preprocessed_image)
-    return 'PNEUMONIA' if prediction[0][0] < 0.5 else 'NORMAL'
+    return 'PNEUMONIA' if prediction[0][0] > 0.5 else 'NORMAL'
 
 # Streamlit app
 st.title("Pneumonia Detection")
