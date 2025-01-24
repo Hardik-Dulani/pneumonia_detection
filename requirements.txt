@@ -1,7 +1,7 @@
 altair==5.5.0
 attrs==24.2.0
 blinker==1.6.2
-cachetools==2.0.0
+cachetools==4.0.0
 certifi==2024.8.30
 cffi==1.17.1
 charset-normalizer==3.3.2
@@ -12,8 +12,6 @@ debugpy==1.8.9
 decorator==5.1.1
 flatbuffers==2.0.0
 gast==0.4.0
-google-auth==2.0.0
-google-auth-oauthlib==0.4.1
 grpcio==1.42.0
 h5py==3.12.1
 idna==3.7
