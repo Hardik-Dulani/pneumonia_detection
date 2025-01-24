@@ -1,8 +1,5 @@
 conda-forge
 defaults
-https://repo.anaconda.com/pkgs/main
-https://repo.anaconda.com/pkgs/r
-https://repo.anaconda.com/pkgs/msys2
 _tflow_select==2.1.0==gpu
 abseil-cpp==20210324.2==hd77b12b_0
 absl-py==2.1.0==py39haa95532_0
